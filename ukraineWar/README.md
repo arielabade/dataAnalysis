@@ -16,6 +16,6 @@ O código do projeto pode ser encontrado aqui: https://github.com/arielabade/dat
 
 O documento completo do projeto pode ser encontrado aqui:
 
-Essas foram os principais resultados, em gráficos, do projeto:
+Essas foram os principais resultados, em gráficos, do projeto: https://github.com/arielabade/dataAnalysis/blob/main/ukraineWar/documentoGuerraUcrania.pdf
 
 
