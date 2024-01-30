@@ -14,8 +14,8 @@ Este projeto de análise de dados teve como objetivo compreender, por meio de n�
 
 O código do projeto pode ser encontrado aqui: https://github.com/arielabade/dataAnalysis/blob/main/ukraineWar/Ukraine_WarV2.ipynb
 
-O documento completo do projeto pode ser encontrado aqui:
+O documento completo do projeto pode ser encontrado aqui: https://github.com/arielabade/dataAnalysis/blob/main/ukraineWar/documentoGuerraUcrania.pdf
 
-Essas foram os principais resultados, em gráficos, do projeto: https://github.com/arielabade/dataAnalysis/blob/main/ukraineWar/documentoGuerraUcrania.pdf
+Essas foram os principais resultados, em gráficos, do projeto: 
 
 
