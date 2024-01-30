@@ -12,7 +12,7 @@ Este projeto de análise de dados teve como objetivo compreender, por meio de n�
 
 É fundamental salientar que o propósito deste estudo não é tomar partido em um conflito que resultou em perdas humanas consideráveis. Pelo contrário, busca-se fornecer uma análise objetiva do impacto danoso e da extensão do conflito. O trabalho completo pode ser conferido [no link fornecido](https://www.kaggle.com/datasets/piterfm/2022-ukraine-russian-war).
 
-O código do projeto pode ser encontrado aqui:
+O código do projeto pode ser encontrado aqui: https://github.com/arielabade/dataAnalysis/blob/main/ukraineWar/Ukraine_WarV2.ipynb
 
 O documento completo do projeto pode ser encontrado aqui:
 
