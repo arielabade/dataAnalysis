@@ -19,4 +19,4 @@ O documento completo do projeto pode ser encontrado aqui: https://github.com/ari
 Essas foram os principais resultados, em gráficos, do projeto: 
 
 
-![Descrição da Imagem](./ukraineWar/images/im1.png)
+(![Mapa da Guerra](file:///D:/backup-formatação/GitHub%20Portfolio/Obsidian-2023/dataAnalysis/ukraineWar/images/mapa_guerra.png))
