@@ -19,5 +19,5 @@ O documento completo do projeto pode ser encontrado aqui: https://github.com/ari
 Essas foram os principais resultados, em gráficos, do projeto: 
 
 
-![Descrição da Imagem](D:\backup-formatação\GitHub Portfolio\Obsidian-2023\dataAnalysis\ukraineWar\images\im1.png)
+![Descrição da Imagem](images\im1.png)
 
