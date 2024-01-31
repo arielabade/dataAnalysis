@@ -18,10 +18,26 @@ O documento completo do projeto pode ser encontrado aqui: https://github.com/ari
 
 Essas foram os principais resultados, em gráficos, do projeto: 
 
+
+##### Comparação entre todas as colunas do dataframe
 ![Texto Alternativo](/ukraineWar/images/im1.png)
+
+##### Observação do comportamento dos dados ao longo do tempo
 ![Texto Alternativo](/ukraineWar/images/im2.png)
+
+
+##### Uso artilharia ao longo do tempo
 ![Texto Alternativo](/ukraineWar/images/im3.png)
+
+##### Uso total de artilharia
 ![Texto Alternativo](/ukraineWar/images/im4.png)
+
+###### Gráfico de defesa aérea
 ![Texto Alternativo](/ukraineWar/images/im5.png)
+
+###### Evolução do número de mortos
 ![Texto Alternativo](/ukraineWar/images/im6.png)
+
+
+##### Gráfico das Principais Artilharias Utilizadas
 ![Texto Alternativo](/ukraineWar/images/im7.png)
