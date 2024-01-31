@@ -19,3 +19,9 @@ O documento completo do projeto pode ser encontrado aqui: https://github.com/ari
 Essas foram os principais resultados, em gráficos, do projeto: 
 
 ![Texto Alternativo](/ukraineWar/images/im1.png)
+![Texto Alternativo](/ukraineWar/images/im2.png)
+![Texto Alternativo](/ukraineWar/images/im3.png)
+![Texto Alternativo](/ukraineWar/images/im4.png)
+![Texto Alternativo](/ukraineWar/images/im5.png)
+![Texto Alternativo](/ukraineWar/images/im6.png)
+![Texto Alternativo](/ukraineWar/images/im7.png)
